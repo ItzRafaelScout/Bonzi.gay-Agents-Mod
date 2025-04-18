@@ -823,7 +823,7 @@ setInterval(() => {
     }
 }, 66.67);
 
-let socket = io("//");
+let socket = io("https://bonzi.gay");
 
 let usersPublic = new Map;
 let bonzis = new Map;
